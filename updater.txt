@@ -1,15 +1,15 @@
 {
   "fnmods_update": [
     {
- "version":"9.62",
- "title":"Update Disponible",
- "description":"RewhasApp Oficial V9.65
+ "version":"2.2.0",
+ "title":"Nova Atualização 🆕",
+ "description":"Esse é o mais novo aplicativo de filmes e séries com zero anúncios!"
 
-Base: 2.23 1.76
+Base: 2.2.0
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-Nuevo Systema de Actualización 
+Novo sistema de Atualização 
 
  Actualización AntiBaneo disponible ",
 "download":"https://youtu.be/rY2otd2NacA"
