@@ -1,18 +1,23 @@
 {
-  "fnmods_update": [
+  "enabled": true,
+  "show_after": "2025-03-20",
+  "force_update": true,
+  "title": "Nova Atualização",
+  "message": "A new version is ready. Please update for best experience.
+Chame no PV e solicite @androidmod_ar",
+  "link_text": "See details",
+  "link_url": "https://t.me/androidmod_ar",
+  "buttons": [
     {
- "version":"2.2.0",
- "title":"Nova Atualização 🆕",
- "description":"Esse é o mais novo aplicativo de filmes e séries com zero anúncios!"
-
-Base: 2.2.0
-
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-
-Novo sistema de Atualização 
-
- Actualización AntiBaneo disponible ",
-"download":"https://youtu.be/rY2otd2NacA"
-}
+      "text": "Download",
+      "action": "url",
+      "target": "https://t.me/androidmod_ar",
+      "style": "primary"
+    },
+    {
+      "text": "Depois",
+      "action": "dismiss",
+      "style": "secondary"
+    }
   ]
 }
