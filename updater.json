@@ -4,13 +4,13 @@
   "force_update": true,
   "title": "Nova Atualização",
   "message": "A experienc",
-  "link_text": "See detailss",
-  "link_url": "https://t.me/androidmod_ar",
+  "link_text": "ADM",
+  "link_url": "https://t.me/redkz",
   "buttons": [
     {
       "text": "Download",
       "action": "url",
-      "target": "https://t.me/androidmod_ar",
+      "target": "https://www.google.com",
       "style": "primary"
     },
     {
