@@ -3,13 +3,7 @@
   "show_after": "2025-03-20",
   "force_update": false,
   "title": "Nova Atualização",
-  "message": "watchug é um app incrível, porém não tem tanto conteúdo comparado a este app🌽",
-"link_text": "111111111",
-  "link_url": "pokem.com",
-"link_text": "2222222",
-  "link_url": "cc.com",
-"link_text": "3333333",
-  "link_url": "com.com.ckm.d_ar",
+  "message": "watchug é um app incrível, porém não tem tanto conteúdo comparado a este app",
   "buttons": [
     {
       "text": "Download",
@@ -21,6 +15,13 @@
       "text": "Depois",
       "action": "dismiss",
       "style": "secondary"
+},
+    {
+      "text": "Teste",
+      "action": "url",
+      "target": "https://www.google.com",
+      "style": "tertiary"
+
     }
   ]
 }
